@@ -7,3 +7,7 @@ Let me begin by making the first commit:
 1. Dipunj Gupta
 
 AI/ML/DL/Linux/Networking Enthusiast. Coffee is love.
+
+2. IGC
+
+Linux user (Debian fan). Love python and Java. Looking foward learning Django.
