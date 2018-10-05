@@ -11,3 +11,7 @@ AI/ML/DL/Linux/Networking Enthusiast. Coffee is love.
 2. IGC
 
 Linux user (Debian fan). Love python and Java. Looking foward learning Django.
+
+3. Surbhit Awasthi
+
+Java, Python Lover. Linux and Networking Enthusiast. Longing to build expertise in ML/DL.
