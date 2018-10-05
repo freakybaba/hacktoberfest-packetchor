@@ -4,10 +4,6 @@ Anyone from MNNIT can make a pull request to this repository, as long as it exis
 
 Let me begin by making the first commit:
 
-1. Dipunj Gupta
-
-AI/ML/DL/Linux/Networking Enthusiast. Coffee is love.
-
-2. IGC
-
-Linux user (Debian fan). Love python and Java. Looking foward learning Django.
+1. Dipunj Gupta - AI/ML/DL/Linux/Networking Enthusiast. Coffee is love.
+2. IGC - Linux user (Debian fan). Love python and Java. Looking foward learning Django.
+3. (Abhishek Kumar Singh)[https://github.com/Abhishek1103] - Develop-a-holic, ML lover and networking enthusiast. :octocat:
