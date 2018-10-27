@@ -10,3 +10,4 @@ Let me begin by making the first commit:
 3. Surbhit Awasthi - Java, Python Lover. Linux and Networking Enthusiast. Longing to build expertise in ML/DL.
 4. [Abhishek Kumar Singh](https://github.com/Abhishek1103) - Develop-a-holic, ML lover and networking enthusiast.
 5. Zippo - Beginner programmer starting with python
+6. Amulya Gaur - Competitive programmer and ML enthusiast. 
