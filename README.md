@@ -11,3 +11,4 @@ Let me begin by making the first commit:
 4. [Abhishek Kumar Singh](https://github.com/Abhishek1103) - Develop-a-holic, ML lover and networking enthusiast.
 5. Zippo - Beginner programmer starting with python
 6. [Harsh Nayak](https://github.com/harshnayak97) - Java/ML Learning WebDev...
+7. Amulya Gaur - Competitive programmer and ML enthusiast. 
