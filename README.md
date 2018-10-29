@@ -12,3 +12,4 @@ Let me begin by making the first commit:
 5. Zippo - Beginner programmer starting with python
 6. [Harsh Nayak](https://github.com/harshnayak97) - Java/ML Learning WebDev...
 7. Amulya Gaur - Competitive programmer and ML enthusiast. 
+8. Amit Jain- Java Developer and coding enthusiast
