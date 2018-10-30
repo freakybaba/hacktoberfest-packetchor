@@ -13,3 +13,4 @@ Let me begin by making the first commit:
 6. [Harsh Nayak](https://github.com/harshnayak97) - Java/ML Learning WebDev...
 7. Amulya Gaur - Competitive programmer and ML enthusiast. 
 8. Amit Jain- Java Developer and coding enthusiast
+9. [Himanshu Purwar](https://github.com/freakybaba) - Software Developer and Coding Enthusiast..
